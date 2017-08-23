@@ -58,4 +58,4 @@ Check [React.Tips](http://react.tips) for React.js tutorials for beginners.
 
 ## Author
 
-[Artemij Fedosejev](http://artemij.com)
+[xiaoyaw]()
